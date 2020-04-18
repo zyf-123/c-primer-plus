@@ -144,6 +144,8 @@
     <ClCompile Include="10.2.cpp" />
     <ClCompile Include="10.3.cpp" />
     <ClCompile Include="10.5.cpp" />
+    <ClCompile Include="10.8.cpp" />
+    <ClCompile Include="10.8.main.cpp" />
     <ClCompile Include="1golf.cpp" />
     <ClCompile Include="1main.cpp" />
     <ClCompile Include="2.cpp" />
@@ -168,6 +170,7 @@
     <ClInclude Include="1.h" />
     <ClInclude Include="10.5.h" />
     <ClInclude Include="10.6.h" />
+    <ClInclude Include="10.h" />
     <ClInclude Include="2.h" />
     <ClInclude Include="9.4.h" />
     <ClInclude Include="10.1.h" />

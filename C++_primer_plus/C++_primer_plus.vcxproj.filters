@@ -111,6 +111,12 @@
     <ClCompile Include="10.5.cpp">
       <Filter>源文件\grade10</Filter>
     </ClCompile>
+    <ClCompile Include="10.8.cpp">
+      <Filter>源文件\grade10</Filter>
+    </ClCompile>
+    <ClCompile Include="10.8.main.cpp">
+      <Filter>源文件\grade10</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1.h">
@@ -135,6 +141,9 @@
       <Filter>源文件\grade10</Filter>
     </ClInclude>
     <ClInclude Include="10.6.h">
+      <Filter>源文件\grade10</Filter>
+    </ClInclude>
+    <ClInclude Include="10.h">
       <Filter>源文件\grade10</Filter>
     </ClInclude>
   </ItemGroup>
