@@ -1,3 +1,4 @@
+#if 0
 #include<iostream>
 using namespace std;
 
@@ -28,7 +29,7 @@ int p4(void)
 	cout << days << "days" << hours << "hours" << second << "seconds" << endl;
 	return 0;
 }
-#if 0
+
 int main(void)
 {
 	p4();

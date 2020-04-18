@@ -1,15 +1,14 @@
+#if 0
 #include <iostream>
 using namespace std;
-#if 0
-int main()
+int mai()
 {
-	int high_inch;
-	int high_foot;
-	cout << "Please input your high (high_inch)" << endl;
-	cin >> high_inch;
-	high_foot = high_inch / 12;
-	cout << "Your high_inch is " << high_inch << endl;
-	cout << "Your high_foot is" << high_foot << endl;
+	int a[5] = { 1,23,12,54,65 };
+	int* p = a;
+	int x = 0;
+	int y = 0;
+	x = *(p++);
+	y = *p;
 	return 0;
 }
 #endif

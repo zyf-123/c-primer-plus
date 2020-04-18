@@ -16,6 +16,21 @@
     <Filter Include="源文件\grade3">
       <UniqueIdentifier>{0a7ef193-a0d3-4e2a-b39e-6bb6fd99a571}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\grade4">
+      <UniqueIdentifier>{bfa7db14-1c30-4690-bb0f-ed2c7f6c5f5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\grade5">
+      <UniqueIdentifier>{26031640-4402-4f77-a961-ae09928cd730}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\grade7">
+      <UniqueIdentifier>{9c49a711-63c4-4ed3-b7f1-5fb658c2af34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\grade8">
+      <UniqueIdentifier>{c8a5d729-834c-4192-80e7-002253cefddf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\garde9">
+      <UniqueIdentifier>{5a01135c-9497-4dd1-abd1-e92ace6234f5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="源1.cpp">
@@ -27,5 +42,67 @@
     <ClCompile Include="源.cpp">
       <Filter>源文件\grade3</Filter>
     </ClCompile>
+    <ClCompile Include="1.cpp">
+      <Filter>源文件\grade4</Filter>
+    </ClCompile>
+    <ClCompile Include="2.cpp">
+      <Filter>源文件\grade5</Filter>
+    </ClCompile>
+    <ClCompile Include="7.1.cpp">
+      <Filter>源文件\grade7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.2.cpp">
+      <Filter>源文件\grade7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.3.cpp">
+      <Filter>源文件\grade7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.6.cpp">
+      <Filter>源文件\grade7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.7.cpp">
+      <Filter>源文件\grade7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.8.cpp">
+      <Filter>源文件\grade7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.10.cpp">
+      <Filter>源文件\grade7</Filter>
+    </ClCompile>
+    <ClCompile Include="testcpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.cpp">
+      <Filter>源文件\grade8</Filter>
+    </ClCompile>
+    <ClCompile Include="5.cpp">
+      <Filter>源文件\grade8</Filter>
+    </ClCompile>
+    <ClCompile Include="6.cpp">
+      <Filter>源文件\grade8</Filter>
+    </ClCompile>
+    <ClCompile Include="1golf.cpp">
+      <Filter>源文件\garde9</Filter>
+    </ClCompile>
+    <ClCompile Include="1main.cpp">
+      <Filter>源文件\garde9</Filter>
+    </ClCompile>
+    <ClCompile Include="9.4.main.cpp">
+      <Filter>源文件\garde9</Filter>
+    </ClCompile>
+    <ClCompile Include="9.1.3.cpp">
+      <Filter>源文件\garde9</Filter>
+    </ClCompile>
+    <ClCompile Include="9.1.4.cpp">
+      <Filter>源文件\garde9</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="1.h">
+      <Filter>源文件\garde9</Filter>
+    </ClInclude>
+    <ClInclude Include="9.4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
