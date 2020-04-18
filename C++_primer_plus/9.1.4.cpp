@@ -1,3 +1,4 @@
+#if 0
 #include<iostream>
 #include"9.4.h"
 namespace SALES
@@ -63,3 +64,4 @@ namespace SALES
         s.min = min;
     }
 }
+#endif

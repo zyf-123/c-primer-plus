@@ -139,6 +139,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp" />
+    <ClCompile Include="10.1.cpp" />
+    <ClCompile Include="10.1.main.cpp" />
+    <ClCompile Include="10.2.cpp" />
+    <ClCompile Include="10.3.cpp" />
+    <ClCompile Include="10.5.cpp" />
     <ClCompile Include="1golf.cpp" />
     <ClCompile Include="1main.cpp" />
     <ClCompile Include="2.cpp" />
@@ -154,7 +159,6 @@
     <ClCompile Include="7.8.cpp" />
     <ClCompile Include="9.1.3.cpp" />
     <ClCompile Include="9.1.4.cpp" />
-    <ClCompile Include="9.4.main.cpp" />
     <ClCompile Include="testcpp.cpp" />
     <ClCompile Include="源.cpp" />
     <ClCompile Include="源2.cpp" />
@@ -162,7 +166,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1.h" />
+    <ClInclude Include="10.5.h" />
+    <ClInclude Include="10.6.h" />
+    <ClInclude Include="2.h" />
     <ClInclude Include="9.4.h" />
+    <ClInclude Include="10.1.h" />
+    <ClInclude Include="10.3.h" />
+    <ClInclude Include="stack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
